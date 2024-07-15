@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Online-courses/static/css/main.836c2f88.css",
-    "main.js": "/Online-courses/static/js/main.08782643.js",
-    "static/js/453.2eff0bc0.chunk.js": "/Online-courses/static/js/453.2eff0bc0.chunk.js",
-    "static/media/hero.png": "/Online-courses/static/media/hero.1c44fc731e824d345d6b.png",
-    "static/media/hero_banner.png": "/Online-courses/static/media/hero_banner.094b94f7ec50e206076c.png",
-    "static/media/t1_img.png": "/Online-courses/static/media/t1_img.893a9a260414af513931.png",
-    "static/media/programmer_big.png": "/Online-courses/static/media/programmer_big.d0a65c996d6714c4f0ea.png",
-    "static/media/programmer.png": "/Online-courses/static/media/programmer.e514df22c37ad8b06562.png",
-    "static/media/p1_img.png": "/Online-courses/static/media/p1_img.1dda77174c7284688115.png",
-    "static/media/contact_image.svg": "/Online-courses/static/media/contact_image.6a708c7e73c13c53b5357ead8558db8f.svg",
-    "static/media/vision_icon.png": "/Online-courses/static/media/vision_icon.8ac92cc1eda09d63ed6a.png",
-    "index.html": "/Online-courses/index.html",
-    "main.836c2f88.css.map": "/Online-courses/static/css/main.836c2f88.css.map",
-    "main.08782643.js.map": "/Online-courses/static/js/main.08782643.js.map",
-    "453.2eff0bc0.chunk.js.map": "/Online-courses/static/js/453.2eff0bc0.chunk.js.map"
+    "main.css": "/Online_courses/static/css/main.53efa52a.css",
+    "main.js": "/Online_courses/static/js/main.f3356f60.js",
+    "static/js/453.2eff0bc0.chunk.js": "/Online_courses/static/js/453.2eff0bc0.chunk.js",
+    "static/media/hero.png": "/Online_courses/static/media/hero.1c44fc731e824d345d6b.png",
+    "static/media/hero_banner.png": "/Online_courses/static/media/hero_banner.094b94f7ec50e206076c.png",
+    "static/media/t1_img.png": "/Online_courses/static/media/t1_img.893a9a260414af513931.png",
+    "static/media/programmer_big.png": "/Online_courses/static/media/programmer_big.d0a65c996d6714c4f0ea.png",
+    "static/media/programmer.png": "/Online_courses/static/media/programmer.e514df22c37ad8b06562.png",
+    "static/media/p1_img.png": "/Online_courses/static/media/p1_img.1dda77174c7284688115.png",
+    "static/media/contact_image.svg": "/Online_courses/static/media/contact_image.6a708c7e73c13c53b5357ead8558db8f.svg",
+    "static/media/vision_icon.png": "/Online_courses/static/media/vision_icon.8ac92cc1eda09d63ed6a.png",
+    "index.html": "/Online_courses/index.html",
+    "main.53efa52a.css.map": "/Online_courses/static/css/main.53efa52a.css.map",
+    "main.f3356f60.js.map": "/Online_courses/static/js/main.f3356f60.js.map",
+    "453.2eff0bc0.chunk.js.map": "/Online_courses/static/js/453.2eff0bc0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.836c2f88.css",
-    "static/js/main.08782643.js"
+    "static/css/main.53efa52a.css",
+    "static/js/main.f3356f60.js"
   ]
 }
